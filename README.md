@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello there!
+## My name is Gabriel and I'm from Brazil
 
-<!--
-**GabrielMarquesArantes/GabrielMarquesArantes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 I’m a fourth-year Computer Engineering student at Federal University of Rio Grande (FURG)
+- 🔬 Undergraduate Researcher, working with machine learning on financial actions, binary option and cryptocurrencies
+- 🌍 I speak portuguese and english 
+- 🚀 Interested about AI, machine learning, cybersecurity, natural sciences and game development
 
-Here are some ideas to get you started:
+## Tools and technologies that I have already used:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1200px-LaTeX_logo.svg.png)" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+
+## If you want to reach out and collaborate:
+
+<a href = "mailto:emanuel_silva2004@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> <a href="https://discord.com/users/emanuelcosta_s" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://www.linkedin.com/in/emanuel-da-costa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
