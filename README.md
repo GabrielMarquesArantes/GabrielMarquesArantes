@@ -13,7 +13,7 @@
 
 ## If you want to reach out and collaborate:
 
-<a href="https://mail.google.com/mail/?view=cm&to=gma26062004@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&to=gma26062004@gmail.com&su=Assunto%20Aqui&body=Escreva%20sua%20mensagem%20aqui" target="_blank">
   <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
