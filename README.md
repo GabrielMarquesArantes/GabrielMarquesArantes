@@ -13,5 +13,15 @@
 
 ## If you want to reach out and collaborate:
 
-<a href = "mailto:emanuel_silva2004@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> <a href="https://discord.com/users/emanuelcosta_s" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> <a href="https://www.linkedin.com/in/emanuel-da-costa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:gma26062004@gmail.com">
+  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+
+ <a href="https://discord.com/users/gma773" target="_blank">
+   <img loading="lazy" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+ </a> 
+ 
+ <a href="https://www.linkedin.com/in/gabriel-marques-arantes-368110266/" target="_blank">
+   <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a>
 </div>
