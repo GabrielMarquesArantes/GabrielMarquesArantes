@@ -6,7 +6,6 @@
 - 🌍 I speak portuguese and english 
 - 🚀 Interested about AI, machine learning, cybersecurity, natural sciences and game development
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 ## Tools and technologies that I have already used:
 
@@ -31,3 +30,5 @@
    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
  </a>
 </div>
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
