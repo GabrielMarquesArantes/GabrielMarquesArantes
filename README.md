@@ -13,8 +13,8 @@
 
 ## If you want to reach out and collaborate:
 
-<a href="mailto:gma26062004@gmail.com">
-  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&to=gma26062004@gmail.com" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
  <a href="https://discord.com/users/gma773" target="_blank">
