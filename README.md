@@ -2,7 +2,6 @@
 
 <div align="center">
   <samp>
-    <br>
     <h1>Hello! My name is <b>Gabriel</b></h1>
   </samp>
 </div>
@@ -11,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=0084ff&width=900&size=25&center=true&lines=AI+%26+Machine+Learning+Researcher+%F0%9F%94%AC;Computer+Engineering+Student+at+FURG(Brazil)+%F0%9F%8E%93" alt="Typing SVG"/>
 </div>
 
-- 🎓 I’m a fourth-year Computer Engineering student at Federal University of Rio Grande (FURG)
+- 🎓 I’m a fourth-year Computer Engineering student at Federal University of Rio Grande (FURG) in Brazil
 - 🔬 Undergraduate Researcher, working with machine learning on financial actions, binary option and cryptocurrencies
 - 🌍 I speak portuguese and english 
 - 🚀 Interested about AI, machine learning, cybersecurity, natural sciences and game development
@@ -61,8 +60,8 @@
     <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://discord.com/users/gma773" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/Discord-gma773-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>  
+   <img loading="lazy" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+ </a>  
   <a href="https://www.instagram.com/gabriel_marques_arantes/?hl=pt" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
