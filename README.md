@@ -18,21 +18,21 @@
 
 <br>
 
-<table align="center" style="width:100%">
+<table align="center" style="width:100%; border-collapse: collapse;">
   <tr style="vertical-align:top">
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=GabrielMarquesArantes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github" width="100%" alt="Gabriel's GitHub Stats"/>
+    <td width="50%" style="padding:5px;">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielMarquesArantes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" width="100%" alt="Gabriel's GitHub Stats"/>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarquesArantes&layout=compact&langs_count=16&theme=dracula" width="100%" alt="Gabriel's Top Languages"/>
+    <td width="50%" style="padding:5px;">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarquesArantes&layout=compact&langs_count=16&theme=dracula&hide_border=true" width="100%" alt="Gabriel's Top Languages"/>
     </td>
   </tr>
   <tr style="vertical-align:top">
-    <td width="50%">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielMarquesArantes&theme=dracula" width="100%" alt="Gabriel's Profile Details"/>
+    <td width="50%" style="padding:5px;">
+      <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielMarquesArantes&theme=dracula&hide_border=true" width="100%" alt="Gabriel's Profile Details"/>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielMarquesArantes&theme=dracula&hide_border=false" width="100%" alt="Gabriel's Contribution Streak"/>
+    <td width="50%" style="padding:5px;">
+      <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=GabrielMarquesArantes&theme=dracula&hide_border=true" width="100%" alt="Gabriel's Contribution Streak"/>
     </td>
   </tr>
 </table>
