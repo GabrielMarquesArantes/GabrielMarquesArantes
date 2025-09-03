@@ -18,24 +18,13 @@
 
 <br>
 
-<table align="center" style="width:100%; border-collapse: collapse;">
-  <tr style="vertical-align:top">
-    <td width="50%" style="padding:5px;">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=GabrielMarquesArantes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" width="100%" alt="Gabriel's GitHub Stats"/>
-    </td>
-    <td width="50%" style="padding:5px;">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarquesArantes&layout=compact&langs_count=16&theme=dracula&hide_border=true" width="100%" alt="Gabriel's Top Languages"/>
-    </td>
-  </tr>
-  <tr style="vertical-align:top">
-    <td width="50%" style="padding:5px;">
-      <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielMarquesArantes&theme=dracula&hide_border=true" width="100%" alt="Gabriel's Profile Details"/>
-    </td>
-    <td width="50%" style="padding:5px;">
-      <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=GabrielMarquesArantes&theme=dracula&hide_border=true" width="100%" alt="Gabriel's Contribution Streak"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielMarquesArantes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true"/>
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarquesArantes&layout=compact&langs_count=16&theme=dracula&hide_border=true"/>
+  <br>
+  <img height="180" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielMarquesArantes&theme=dracula&hide_border=true"/>
+  <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GabrielMarquesArantes&theme=dracula&hide_border=true"/>
+</div>
 
 <br>
 
@@ -65,7 +54,7 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gabriel-marques-arantes-368110266/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-marques-antes-368110266/" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:gma26062004@gmail.com" target="_blank">
