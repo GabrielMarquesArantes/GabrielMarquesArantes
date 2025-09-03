@@ -8,7 +8,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=0084ff&width=900&size=25&center=true&lines=AI+%26+Machine+Learning+Researcher+🔬;Computer+Engineering+Student+at+FURG(Brazil)+🎓" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=0084ff&width=900&size=25&center=true&lines=AI+%26+Machine+Learning+Researcher+%F0%9F%94%AC;Computer+Engineering+Student+at+FURG(Brazil)+%F0%9F%8E%93" alt="Typing SVG"/>
 </div>
 
 - 🎓 I’m a fourth-year Computer Engineering student at Federal University of Rio Grande (FURG)
@@ -18,13 +18,24 @@
 
 <br>
 
-<div align="center">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=GabrielMarquesArantes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarquesArantes&layout=compact&langs_count=16&theme=dracula"/>
-  <br>
-  <img height="180" align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielMarquesArantes&theme=dracula"/>
-  <img height="180" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=GabrielMarquesArantes&theme=dracula&hide_border=false"/>
-</div>
+<table align="center" style="width:100%">
+  <tr style="vertical-align:top">
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=GabrielMarquesArantes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&rank_icon=github" width="100%" alt="Gabriel's GitHub Stats"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMarquesArantes&layout=compact&langs_count=16&theme=dracula" width="100%" alt="Gabriel's Top Languages"/>
+    </td>
+  </tr>
+  <tr style="vertical-align:top">
+    <td width="50%">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GabrielMarquesArantes&theme=dracula" width="100%" alt="Gabriel's Profile Details"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=GabrielMarquesArantes&theme=dracula&hide_border=false" width="100%" alt="Gabriel's Contribution Streak"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
